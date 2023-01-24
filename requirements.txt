@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+google-api-python-client
+fastapi
+uvicorn
